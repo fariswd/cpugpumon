@@ -1,7 +1,8 @@
 # cpugpumon
 Identifikasi Temperature & %Usage untuk CPU+GPU  
 
-![alt text](https://github.com/fariswd/cpugpumon/cpugpumon.jpg "Header")
+
+![alt text](https://github.com/fariswd/cpugpumon/raw/master/cpugpumon.jpg "Header")
 
 Adalah sebuah hardware monitoring yang memonitor suhu dan %usage pada komputer. Dalam hal ini HWInfo Plugin telah menyediakan RESTful `API` yang dapat diakses dalam bentuk `JSON`. Dengan bantuan `NodeJs` untuk mengirimkan value yang diinginkan (dalam hal ini Temperatur & Usage) ke `Arduino` yang dilengkapi dengan Lcd16x2.  
 
