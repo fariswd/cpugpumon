@@ -12,13 +12,13 @@ download here https://www.hwinfo.com/forum/Thread-Introducing-Remote-Sensor-Moni
 
 
 ### Arduino/esp8266 pada "COM6"
-Menggunakan library LiquidCrystalI2C
+Menggunakan library LiquidCrystalI2C  
 Wire Map:  
-ESP => LCDI2C
-D1 => SCL
-D2 => SDA
-Vin => 5V
-Gnd => Gnd
+ESP => LCDI2C  
+D1 => SCL  
+D2 => SDA  
+Vin => 5V  
+Gnd => Gnd  
 
 
 ### NodeJs
